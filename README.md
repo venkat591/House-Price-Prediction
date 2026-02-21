@@ -100,7 +100,7 @@ These visualizations clearly highlight pricing trends, outliers, and location-ba
 
 ## Conclusion
 
-The EDA provided a clear understanding of the dataset structure, quality, and pricing behavior. After handling duplicates and invalid values, the dataset became reliable for analysis. The insights derived from univariate and bivariate analysis can support **real-estate decision-making** and serve as a strong foundation for **predictive modeling** in future work.
+The EDA provided a clear understanding of the dataset structure, quality, and pricing behavior. After handling duplicates and invalid values, the dataset became reliable for analysis. The insights derived from univariate and bivariate analysis can support **real-estate decision-making** and serve as a strong foundation for **predictive modeling** in future work
 
 ---
 
